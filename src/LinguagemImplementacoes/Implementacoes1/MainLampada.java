@@ -1,4 +1,5 @@
-package LinguagemImplementaçoes;
+package LinguagemImplementacoes.Implementacoes1;
+
 import java.util.Scanner;
 public class MainLampada {
     public static void main(String[] args) {

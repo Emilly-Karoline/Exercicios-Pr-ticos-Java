@@ -1,4 +1,4 @@
-package LinguagemImplementaçoes;
+package LinguagemImplementacoes.Implementacoes1;
 
 public class MainTVeControle {
     public static void main(String[] args) {

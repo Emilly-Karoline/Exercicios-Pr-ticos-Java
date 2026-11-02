@@ -1,4 +1,4 @@
-package LinguagemImplementaçoes;
+package LinguagemImplementacoes.Implementacoes1;
 
 public class AplicacaoProduto {
     public static void main(String[] args) {
